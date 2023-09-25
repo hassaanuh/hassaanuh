@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hassaanuh
 - 👀 I’m interested in public policy via data science
-- 🌱 I’m currently learning python
+- 🌱 I’m looking to work in using ML and AI for Urban Economic Development
 - 💞️ I’m looking to collaborate on any public policy research 
-- 📫 How to reach me: hmu at hasanulhaq01@gmail.com
+- 📫 hmu at hassaan.haq1@gmail.com
 
 <!---
 hassaanuh/hassaanuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
