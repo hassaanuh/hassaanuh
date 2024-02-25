@@ -1,5 +1,5 @@
 # Hassaan Ul Haq 
-**`UChicago/MPP/Modeling Cities`**
+**`UChicago/MPP/Modeling Cities/Walkability`**
 ## 🎓 Currently doing MPP @UChicago with Specialization in Data Science and Urban Policy🌆
 ## Working Part time building CNN/DL models at the ENL Lab  
 
@@ -12,3 +12,4 @@ into my need to delve into Machine Learning Maths.
 Currently Reading 📕: Deep Learning - by Ian Goodfellow & Yoshua Bengio & Aaron Courville 
 
 
+Repos that I am proud of: 
