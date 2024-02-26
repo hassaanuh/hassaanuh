@@ -12,5 +12,4 @@ into my need to delve into Machine Learning Maths.
 Currently Reading 📕: Deep Learning - by Ian Goodfellow & Yoshua Bengio & Aaron Courville 
 
 
-Repos that I am proud of: 
-
+Work that i like:
