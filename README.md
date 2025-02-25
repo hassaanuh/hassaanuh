@@ -13,3 +13,9 @@ Currently Reading 📕: Deep Learning - by Ian Goodfellow & Yoshua Bengio & Aaro
 
 
 Work that i like:
+## Projects 
+
+### NLP Projects
+### Deep Learning x GenAI
+#### Anomaly Detection Algorithm 
+@https://github.com/Pritam0705/Hackylitics25
