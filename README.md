@@ -12,6 +12,7 @@ Being an Economist, I love delving into the world of conditional probabilities w
 into my need to delve into Machine Learning Maths.
 
 Perpetually Reading (Slowly) 📕: Deep Learning - by Ian Goodfellow & Yoshua Bengio & Aaron Courville 
+
 Actual Reading: Atlas of AI
 
 
