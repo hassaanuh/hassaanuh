@@ -2,7 +2,8 @@
 **`UChicago/MPP/Modeling Cities/Walkability`**
 ## 🎓 Currently: Data Scientist at GivingTuesday
 ## MPP @UChicago with Specialization in Data Science and Urban Policy🌆
-## Working Part time building CNN/DL models at the ENL Lab  
+## Working Fulltime: Data Scientist
+## Side Projects: World Bank ETL Analyst; NCPERS: ML Research (intern)
 
 While I did my professional degree at the University of Chicago, my interest in technology solutions
 isn't new. Have been working in the field of Data Science and Machine Learning for over two years now, 
